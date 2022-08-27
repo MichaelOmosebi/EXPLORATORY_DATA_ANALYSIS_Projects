@@ -1,4 +1,4 @@
-# DataCamp_DS_Projects
+# Exploratory_Data_Analysis
 This repository contains the projects that were carried out in fulfillment of the requirement for achieving the Professional Data Science Certificate on DATACAMP
 
 ## 1) A Visual History of Nobel Prize Winners 🥇 
@@ -23,3 +23,5 @@ In this project you will see:
 - Which movie category/genre can usually has the highest durations.
 - Can you find more 'Romance' movies on NETFLIX?
 - Many more...
+
+```Credits```: DATACAMP & Kaggle
