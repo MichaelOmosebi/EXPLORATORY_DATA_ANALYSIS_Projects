@@ -12,7 +12,7 @@ About Nobel prize winners between 1901 and 2016, this projects answers questions
 - Which country dominates the list of Nobel Laureates nationalities?
 - How old is old enough for an average Nobel Laureate recepient?
 
-### Area of Improvement: This project will be updated to include events that occurred after 2016.
+### Call for Improvement: This project will be updated to include events that occurred after 2016.
 
 ## 2) Investigatig NETFLIX Movies 🎬
 
