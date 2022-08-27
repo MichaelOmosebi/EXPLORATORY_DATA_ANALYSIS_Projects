@@ -1,5 +1,7 @@
-# Exploratory_Data_Analysis
-This repository contains the projects that were carried out in fulfillment of the requirement for achieving the Professional Data Science Certificate on DATACAMP
+# DataCAMP_DS_Projects
+This repository contains the projects that were carried out in fulfillment of the requirement for achieving the Professional Data Science Certificate on DATACAMP.
+
+Other randomly selected EDA projects also.
 
 ## 1) A Visual History of Nobel Prize Winners 🥇 
 
