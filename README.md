@@ -14,7 +14,7 @@ About Nobel prize winners between 1901 and 2016, this projects answers questions
 
 ### Area of Improvement: This project will be updated to include events that occurred after 2016.
 
-## 2) Investigatig NETFLIX Movies & Stars 🥇
+## 2) Investigatig NETFLIX Movies 🎬
 
 ![netflix](https://user-images.githubusercontent.com/94956048/187049768-eafe0e87-9aef-4554-9cda-31c3243136f7.jpg)
 
